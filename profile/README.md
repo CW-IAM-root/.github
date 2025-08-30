@@ -14,6 +14,7 @@
   - 짧은 RPO, RTO를 목표로 재난 상황에도 데이터 손실을 최소화하고 빠른 서비스 제공
 
 <br>
+<br>
 
 ## 팀 구성원
 |  정호원  |  나영민  |  이명규  |  임세희  |  홍수빈  |
@@ -23,11 +24,13 @@
 | DevOps, Infra | DevOps, Infra | Monitoring, Infra | Infra, FullStack | Infra, FullStack |
 
 <br>
+<br>
 
 ## 사용 리소스
 
 <img width="1652" height="851" alt="Image" src="https://github.com/user-attachments/assets/8eea960d-31ba-4da3-9dee-55c515bcfeac" />
 
+<br>
 <br>
 
 ## 전체 아키텍처
@@ -35,18 +38,24 @@
 <img width="4002" height="2626" alt="Image" src="https://github.com/user-attachments/assets/3ffa3e17-ca6f-4d6a-acf6-e0b8a9bf9318" />
 
 <br>
+<br>
+
 
 ### 1. 운영계
 
 <img width="2161" height="1061" alt="Image" src="https://github.com/user-attachments/assets/c123bd8c-4cef-4e34-87c3-b714a5908632" />
 
 <br>
+<br>
+
 
 ### 2. 개발계
 
 <img width="1467" height="1161" alt="image" src="https://github.com/user-attachments/assets/502beb92-c68e-4b04-9185-4d3f336c22b1" />
 
 <br>
+<br>
+
 
 ### 3. DR
 
@@ -54,11 +63,18 @@
 
 https://github.com/user-attachments/assets/f0d4a20b-bc7c-4f4f-8477-8b5479d8e0b5
 
+<br>
+<br>
+
 ## 주요 기능
 
 ### 대기열
 
 https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
+
+<br>
+<br>
+
 
 ## CI/CD
 
@@ -66,9 +82,12 @@ https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
 
 <img width="1075" height="454" alt="image" src="https://github.com/user-attachments/assets/28738e90-1076-4ecf-8f6c-13bae6ef083d" />
 
+<br>
+
 ### CD Workflows
 
 <img width="1076" height="488" alt="image" src="https://github.com/user-attachments/assets/37519e06-37a8-456f-9d9e-c32911942302" />
+
 
 
 
