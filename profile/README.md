@@ -52,4 +52,10 @@
 
 <img width="854" height="518" alt="image" src="https://github.com/user-attachments/assets/eff8151d-ebe6-404b-a5ad-87b0f39c7904" />
 
+https://github.com/user-attachments/assets/f0d4a20b-bc7c-4f4f-8477-8b5479d8e0b5
 
+## 주요 기능
+
+### 대기열
+
+https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
