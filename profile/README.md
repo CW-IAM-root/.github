@@ -59,3 +59,16 @@ https://github.com/user-attachments/assets/f0d4a20b-bc7c-4f4f-8477-8b5479d8e0b5
 ### 대기열
 
 https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
+
+## CI/CD
+
+### CI Workflow
+
+<img width="1075" height="454" alt="image" src="https://github.com/user-attachments/assets/28738e90-1076-4ecf-8f6c-13bae6ef083d" />
+
+### CD Workflows
+
+<img width="1076" height="488" alt="image" src="https://github.com/user-attachments/assets/37519e06-37a8-456f-9d9e-c32911942302" />
+
+
+
