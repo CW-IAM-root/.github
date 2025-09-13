@@ -28,14 +28,14 @@
 
 ## 사용 리소스
 
-<img width="1652" height="851" alt="Image" src="https://github.com/user-attachments/assets/8eea960d-31ba-4da3-9dee-55c515bcfeac" />
+<img width="1652" height="851" alt="1" src="https://github.com/user-attachments/assets/922e2e89-2f6d-4a76-bac1-96e1a30b2893" />
 
 <br>
 <br>
 
 ## 전체 아키텍처
 
-<img width="1652" height="851" alt="1" src="https://github.com/user-attachments/assets/922e2e89-2f6d-4a76-bac1-96e1a30b2893" />
+<img width="4002" height="2626" alt="2" src="https://github.com/user-attachments/assets/82dbf3f8-3420-4a3a-8b69-941bcac30054" />
 
 <br>
 <br>
@@ -43,7 +43,7 @@
 
 ### 1. 운영계
 
-<img width="2161" height="1061" alt="Image" src="https://github.com/user-attachments/assets/c123bd8c-4cef-4e34-87c3-b714a5908632" />
+<img width="2161" height="1061" alt="3" src="https://github.com/user-attachments/assets/4588287f-f9e1-4502-92f3-c4bc47859df6" />
 
 <br>
 <br>
@@ -61,7 +61,7 @@
 
 <img width="854" height="518" alt="image" src="https://github.com/user-attachments/assets/eff8151d-ebe6-404b-a5ad-87b0f39c7904" />
 
-https://github.com/user-attachments/assets/f0d4a20b-bc7c-4f4f-8477-8b5479d8e0b5
+
 
 <br>
 <br>
@@ -94,6 +94,7 @@ https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
 ## Backup
 
 <img width="1086" height="553" alt="Image" src="https://github.com/user-attachments/assets/2ce031ec-4e50-498c-b32f-8ffb88618be3" />
+
 
 
 
