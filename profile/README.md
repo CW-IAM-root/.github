@@ -35,7 +35,7 @@
 
 ## 전체 아키텍처
 
-<img width="4002" height="2626" alt="Image" src="https://github.com/user-attachments/assets/3ffa3e17-ca6f-4d6a-acf6-e0b8a9bf9318" />
+<img width="1652" height="851" alt="1" src="https://github.com/user-attachments/assets/922e2e89-2f6d-4a76-bac1-96e1a30b2893" />
 
 <br>
 <br>
@@ -94,6 +94,7 @@ https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
 ## Backup
 
 <img width="1086" height="553" alt="Image" src="https://github.com/user-attachments/assets/2ce031ec-4e50-498c-b32f-8ffb88618be3" />
+
 
 
 
