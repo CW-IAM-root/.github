@@ -61,16 +61,17 @@
 
 <img width="854" height="518" alt="image" src="https://github.com/user-attachments/assets/eff8151d-ebe6-404b-a5ad-87b0f39c7904" />
 
-
+![DR](https://github.com/user-attachments/assets/b359ba0b-b377-41a4-bcbd-f535c66f56a6)
 
 <br>
 <br>
+
 
 ## 주요 기능
 
 ### 대기열
 
-https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
+![MQ](https://github.com/user-attachments/assets/f4b65e86-4e9b-4705-91e7-bcc093e64d39)
 
 <br>
 <br>
@@ -93,9 +94,4 @@ https://github.com/user-attachments/assets/0afc558b-a6bf-4725-b353-571d0842d8a7
 
 ## Backup
 
-<img width="1086" height="553" alt="Image" src="https://github.com/user-attachments/assets/2ce031ec-4e50-498c-b32f-8ffb88618be3" />
-
-
-
-
-
+<img width="1086" height="553" alt="4" src="https://github.com/user-attachments/assets/5493ff96-fb10-4dd2-9cff-101d4555dc10" />
